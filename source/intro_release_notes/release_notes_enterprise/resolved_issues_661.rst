@@ -30,3 +30,5 @@ The following issues has been solved in 6.6.1:
 - `Fix permissions for 'onevm disk-resize', fix error code for 'onevm create-chart' <https://github.com/OpenNebula/one/issues/6068>`__.
 - `Fix IPv6 was not being displayed on FireEdge Sunstone <https://github.com/OpenNebula/one/issues/6106>`__.
 - `Fix retry_if func in TM drivers <https://github.com/OpenNebula/one/issues/6078>`__.
+- `Fix filtered attributes for backup restoration (DEV_PREFIX, OS/UUID) <https://github.com/OpenNebula/one/issues/6044>`__.
+- `Fix filtering MAC attribute only when no_ip is used <https://github.com/OpenNebula/one/issues/6048>`__.
